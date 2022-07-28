@@ -1,0 +1,10 @@
+/* estilos globales */
+html, body {
+    height: 100%;
+    min-height: 100%;
+    background-color: #eee;
+}
+
+#delete-all-btn {
+    visibility: hidden;
+}
